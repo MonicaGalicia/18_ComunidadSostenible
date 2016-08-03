@@ -1,0 +1,209 @@
+li{
+	display:inline-block;
+	list-style:none;
+	color:grey;
+	font-size:18px;
+	margin:15px;
+
+}
+
+ul{
+	margin-top:50px;
+}
+
+#imgeco{
+	width:150px;
+	height:140px;
+}
+
+#semilla{
+	width:950px;
+	height:410px;
+	margin-bottom:0px;
+
+}
+
+p,h4,h5{
+	text-align:center;
+	margin-top:15px;
+	margin-bottom:15px;
+
+}
+h4{
+	font-size:18px;
+}
+.topimagen{
+	margin-top:65px;
+	display:block;
+	margin:auto;
+	width:100px;
+	height:100px;
+}
+
+#metodo{
+	width:475px;
+	height:300px;
+	margin-top:45px;
+	margin-bottom:30px;
+}
+
+.fondoverde{
+	background-image:url("../img/fondo.jpg");
+    width:470px;
+	height:300px;
+	margin-top:45px;
+	margin-bottom:30px;
+}
+
+#iconometodo{
+	margin-top:90px;
+	margin-left:190px;
+	margin-bottom:10px;
+
+}
+
+.color{
+	text-align:center; /*es parte de la metodlogia y el icono*/
+	color:white;
+}
+
+
+#p{
+	margin-bottom:30px; /*separacion de servicios e icono*/
+}
+
+
+
+h3{
+	color:white;
+	margin:25px;
+}
+
+#fondoproyec{
+	background-color:#5E8039;/*corresponde al fondo verde de seccion proyecto*/
+	height:730px;
+	width:950px;
+	margin-bottom:45px;
+}
+
+.margin {
+	margin:5px 25px; /*margin imagenes de proyectos*/
+	width:405px;
+	height:300px;
+	
+}
+
+.fotoequipo{
+	width:180px;
+	height:180px;
+	display:block;
+	margin:auto;
+	border-radius:100%;
+	}
+.redes{
+	width:30px;
+	height:30px;
+	display:inline-block;
+	margin-left:15px;
+}
+
+.align{
+	margin-left:150px;
+
+}
+
+#fondoblog{
+	background-image:url("../img/fondo2.jpg");
+    width:950px;
+	height:360px;
+	margin-top:45px;
+	margin-bottom:0px;
+
+}
+
+.fotosblog{
+	width:220px;
+	height:180px;
+	margin-right:5px;
+	margin-top:20px;
+	margin-bottom:0px;
+
+}
+
+.flecha{
+	margin-left:20px;
+	margin-top:120px;
+}
+
+.textslider{
+	margin:0px;
+	color:#2E2E2E;
+
+
+}
+
+.sizes{        /*tamaño p en slider*/
+	font-size:14px;
+}
+
+#backredes{
+	background-color:#2E2E2E;
+	width:950px;
+	height:290px;
+	
+}
+
+.border{
+	border:solid white;   /*footer*/
+	width:200px;
+	height:200px;
+	display:inline-block;
+	margin:45px 0px 0px 0px;
+	color:white;
+	font-size:17px;
+}
+
+#marginredes{
+	margin-left:55px;
+}
+
+.redesbottom{
+	width:40px;
+	height:40px;
+	margin-left:70px;
+	margin-top: 15px;
+
+}
+
+.backfooter{
+	background-color:#F2F2F2;
+	width:950px;
+	height:150px;
+	margin-top:0px;
+	margin-bottom:45px;
+	
+}
+
+#textorange{
+	color:orange;
+}
+
+.marginp{
+	margin-top:45px;
+	font-size:15px;
+	color:grey;
+}
+
+span{
+	color:orange;
+}
+
+#funo{        /*flecha1*/
+   margin-right:5px;
+}
+ 
+ #imagencenter{      /*imagencetro slider*/
+    width:270px;
+	height:180px;
+ }
+
